@@ -183,7 +183,7 @@ Created Features
 
 ---
 
-# 💡 Key Business Insights
+# Key Business Insights
 
 - Drivers with shorter tenure are more likely to leave.
 - Income growth positively impacts driver retention.
@@ -193,7 +193,7 @@ Created Features
 
 ---
 
-# 📈 Business Recommendations
+# Business Recommendations
 
 - Improve onboarding for newly joined drivers.
 - Introduce performance-based incentives.
@@ -204,7 +204,7 @@ Created Features
 
 ---
 
-# 🚀 Future Scope
+# Future Scope
 
 The project can be extended using Machine Learning models:
 
@@ -215,33 +215,3 @@ The project can be extended using Machine Learning models:
 
 to predict driver attrition and support proactive retention strategies.
 
----
-
-# ▶️ Installation
-
-```bash
-git clone https://github.com/archanakushwaha5899/ola-driver-attrition-analysis.git
-
-cd ola-driver-attrition-analysis
-
-pip install -r requirements.txt
-
-jupyter notebook
-```
-
----
-
-# 👩‍💻 Author
-
-**Archana Kushwaha**
-
-Data Analyst
-
-Skills:
-- SQL
-- Python
-- Power BI
-- Excel
-
-GitHub:
-https://github.com/archanakushwaha5899
